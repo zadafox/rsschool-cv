@@ -1,5 +1,5 @@
 ## 1. **ZADA TULKIBAYEVA** 
-# ![image](https://user-images.githubusercontent.com/54464470/190895478-bcc31d2d-e8df-4aca-b1bb-1f4688c8127d.png)
+### ![image](https://user-images.githubusercontent.com/54464470/190895478-bcc31d2d-e8df-4aca-b1bb-1f4688c8127d.png)
 
 ## 2. CONTACT INFORMATION:
 #### mob.: +7 (708) 7677360
