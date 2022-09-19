@@ -13,7 +13,6 @@
 #### Gitlab/Github
 #### SQL
 #### R/Rstudio
-#### Kotlin
 #### Power BI
 
 ## 5. 
